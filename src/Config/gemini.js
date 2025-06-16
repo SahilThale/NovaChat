@@ -1,10 +1,10 @@
 
 
 /*
- * Install the Generative AI SDK
- *
- * $ npm install @google/generative-ai
+ ? Install the Generative AI SDK
+ & $ npm install @google/generative-ai
  */
+
 
 import {
     GoogleGenerativeAI,
